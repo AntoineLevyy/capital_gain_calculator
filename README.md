@@ -1,5 +1,4 @@
-# if_only
-If only I had invested...
+# How much?
 
 This is a simple notebook that shows capital gains on a stock between two points in time. NB: This only calculates capital gains. #TODO: Add dividend payouts.
 
